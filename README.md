@@ -31,7 +31,7 @@ This project demonstrates an end-to-end data analysis workflow, transforming raw
 ## 📊 Dashboard File
 
 Download the Power BI dashboard here:  
-[Download Dashboard](dashboard/viusalisation.pbix)
+[Download Dashboard](dashboard/pbi_viusalisation.pbix)
 
 ## Skills Demonstrated
 
