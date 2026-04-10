@@ -36,7 +36,7 @@ This project demonstrates an end-to-end data analysis workflow, transforming raw
 * Data Visualisation
 * Business Insight Generation
 
-## 🚀 Conclusion
+## Conclusion
 
 This project highlights my ability to take raw data and transform it into actionable insights that can support business decisions.
 
